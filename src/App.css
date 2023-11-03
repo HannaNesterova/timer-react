@@ -1,0 +1,11 @@
+.Clock{
+    background-color: brown;
+    min-height: 100vh;
+    color: aliceblue;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
