@@ -1,8 +1,7 @@
 
 import { Component } from 'react';
 import './App.css';
-import ReactDOM from "react-dom";
-import { createRoot } from 'react-dom';
+
 
 
 
