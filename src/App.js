@@ -105,5 +105,3 @@ export default class App extends Component {
   }
 }
 
-const root = createRoot(document.getElementById('root'));
-root.render(<App />);
